@@ -9,7 +9,8 @@
 
 @media screen and (max-width: 1024px) {
   .intro {
-    margin-left: 24px;
+    margin: auto;
+    text-align: center;
   }
 }
 
